@@ -1,0 +1,1 @@
+# AWS_Practitioner_exam
